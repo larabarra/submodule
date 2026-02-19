@@ -7,7 +7,7 @@ FOLDER_NAME = "data_import"
 TASKS_COUNT = 5
 
 # Dados para popular os arquivos
-task_types = ["Glúteos", "Estudo API", "Refatoração SQL", "Cardio", "Node.js"]
+task_types = ["Eletrônica", "Estudo API", "Refatoração SQL", "Cardio", "Node.js"]
 difficulties = ["Easy", "Medium", "Hard", "Legendary"]
 
 def create_mock_data():
